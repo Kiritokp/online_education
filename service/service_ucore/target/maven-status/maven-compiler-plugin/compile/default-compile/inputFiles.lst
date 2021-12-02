@@ -1,0 +1,15 @@
+E:\IDEAworkspace\online_education\service\service_ucore\src\main\java\com\xiaobai\core\UCoreApplication.java
+E:\IDEAworkspace\online_education\service\service_ucore\src\main\java\com\xiaobai\core\entity\UcenterMember.java
+E:\IDEAworkspace\online_education\service\service_ucore\src\main\java\com\xiaobai\core\mapper\UcenterMemberMapper.java
+E:\IDEAworkspace\online_education\service\service_ucore\src\main\java\com\xiaobai\core\entity\vo\RegisterVo.java
+E:\IDEAworkspace\online_education\service\service_ucore\src\main\java\com\xiaobai\core\utils\HttpClientUtils.java
+E:\IDEAworkspace\online_education\service\service_ucore\src\main\java\com\xiaobai\core\controller\WxApiController.java
+E:\IDEAworkspace\online_education\service\service_ucore\src\main\java\com\xiaobai\core\utils\ConstantPropertiesUtil.java
+E:\IDEAworkspace\online_education\service\service_ucore\src\main\java\com\xiaobai\core\entity\vo\LoginVo.java
+E:\IDEAworkspace\online_education\service\service_ucore\src\main\java\com\xiaobai\core\service\impl\UcenterMemberServiceImpl.java
+E:\IDEAworkspace\online_education\service\service_ucore\src\main\java\com\xiaobai\core\service\UcenterMemberService.java
+E:\IDEAworkspace\online_education\service\service_ucore\src\main\java\com\xiaobai\core\entity\vo\LoginInfo.java
+E:\IDEAworkspace\online_education\service\service_ucore\src\main\java\com\xiaobai\core\entity\vo\UcenterMemberOrder.java
+E:\IDEAworkspace\online_education\service\service_ucore\src\main\java\com\xiaobai\core\utils\MD5.java
+E:\IDEAworkspace\online_education\service\service_ucore\src\main\java\com\xiaobai\core\controller\UcenterMemberController.java
+E:\IDEAworkspace\online_education\service\service_ucore\src\main\java\com\xiaobai\core\utils\JwtUtils.java
