@@ -23,6 +23,7 @@ public class EduConfig {
     }
 
 
+
     /**
      * 分页插件
      */
