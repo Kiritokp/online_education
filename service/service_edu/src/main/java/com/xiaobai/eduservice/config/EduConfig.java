@@ -21,6 +21,7 @@ public class EduConfig {
     public ISqlInjector sqlInjector(){
         return new LogicSqlInjector();
     }
+
     /**
      * 分页插件
      */
