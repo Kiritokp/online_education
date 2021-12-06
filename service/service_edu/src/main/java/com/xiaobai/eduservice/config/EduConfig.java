@@ -30,5 +30,6 @@ public class EduConfig {
     public PaginationInterceptor paginationInterceptor(){
         return new PaginationInterceptor();
     }
-    //xiaobai test ~~~
+//xiaobai test ~~~123
+    //master test ~~~
 }
